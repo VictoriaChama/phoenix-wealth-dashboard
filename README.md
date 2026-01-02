@@ -15,3 +15,6 @@ learning full-stack development, and building real-world software.
 
 ## Status
 🚧 MVP in progress
+
+
+Progress log: Day 2 – Project Structure refined
