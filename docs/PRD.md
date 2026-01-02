@@ -21,3 +21,12 @@ Goals
 Trends & insights
 
 Built initially for manual data entry (Excel-style), with future automation potential.
+
+2. PRODUCT GOALS (SMART)
+Deliver a fully functional MVP by September 2026
+Replicate and improve the functionality of your existing Excel dashboard
+
+Serve as:
+A portfolio project
+A personal finance management tool
+A foundation for future fintech products
