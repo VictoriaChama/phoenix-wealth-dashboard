@@ -6,3 +6,4 @@
 - First commit made
 
 Focus: showing up.
+git stat
