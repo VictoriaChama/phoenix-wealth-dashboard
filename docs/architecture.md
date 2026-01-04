@@ -20,3 +20,15 @@ Hosting
 Frontend: Vercel / Netlify
 Backend & DB: Supabase Cloud
 Version Control: GitHub
+
+Design & Wireframes
+Sections
+Home Dashboard
+Net Worth Page
+Cash Flow Page
+Goals Page
+
+👉 Embed:
+Figma links
+Screenshots
+Hand-drawn sketches
