@@ -7,3 +7,9 @@
 
 Focus: showing up.
 git stat
+
+## Week 1 Reflections
+
+What went well
+What you learned
+Next focus
