@@ -15,3 +15,12 @@ Language: TypeScript
 Database: Supabase (PostgreSQL)
 Auth: Supabase Auth
 API Style: REST
+
+## 🔐 Authentication & Security
+
+Authentication is handled using Supabase Auth.
+All API endpoints will require a valid user session
+User-specific data is protected using:
+Supabase Row Level Security (RLS)
+Backend validation
+Environment variables are used to store sensitive credentials
