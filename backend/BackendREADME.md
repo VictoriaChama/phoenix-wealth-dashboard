@@ -24,3 +24,29 @@ User-specific data is protected using:
 Supabase Row Level Security (RLS)
 Backend validation
 Environment variables are used to store sensitive credentials
+
+## 🔁 API Responsibilities
+
+The backend API will support the following core modules:
+
+Net Worth
+
+Create, read, update, delete assets
+
+Create, read, update, delete liabilities
+
+Calculate total assets, liabilities, and net worth
+
+Cash Flow
+
+Manage income entries
+
+Manage expense entries
+
+Calculate monthly surplus or deficit
+
+Goals
+
+Create and manage financial goals
+
+Track progress toward targets
